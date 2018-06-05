@@ -1,0 +1,3 @@
+rootProject.name = 'Simpllist'
+
+include ':app'
